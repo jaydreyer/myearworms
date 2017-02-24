@@ -1,16 +1,14 @@
 +++
 featuredalt = ""
-featuredpath = ""
+featuredpath = "/img/main/"
 title = "about"
-featured = ""
+featured = "about.jpg"
 linktitle = ""
 description = ""
 categories = []
 author = ""
 date = "2017-02-23T19:03:40-06:00"
-
 +++
-
 ## Why?
 According to the internet, the best way to rid oneself of an "earworm" is to listen to the offending tune in question. I figure if listening might get rid of it, then writing up a whole ridiculous post about the song should force it right out of my head forever. **This is the dream!**
 

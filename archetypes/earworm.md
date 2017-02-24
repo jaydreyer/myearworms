@@ -13,7 +13,7 @@ featured = ""
 type = "post"
 
 +++
-
+<!--more-->
 ### How did this happen?
 
 ### So about the song...
