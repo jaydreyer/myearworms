@@ -1,5 +1,5 @@
 +++
-categories = []
+categories = ["Rock"]
 author = "Jay Dreyer"
 linktitle = ""
 title = "Showdown At Big Sky"
