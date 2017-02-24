@@ -16,7 +16,7 @@ googleAnalytics = ""
     socialAppearAtTop    = true
     socialAppearAtBottom = true
     # set this to the section name if section is not post
-    viewMorePostLink     = "/blog/"
+    viewMorePostLink     = "/earworm/"
 
 # Optional Params
     categoriesByCount    = true
@@ -55,7 +55,7 @@ googleAnalytics = ""
     # modify your picture in the shape of a circle or
     # future imperfect's hexagonal shape
     circle    = true
-    imperfect = true
+    imperfect = false
     width     = "100"
     alt       = "albums"
 
@@ -67,9 +67,9 @@ googleAnalytics = ""
 # Set up your menu items in the navigation bar
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
-    name = "Blog"
-    url = "/blog"
-    identifier = "fa fa-newspaper-o"
+    name = "Worms"
+    url = "/earworm"
+    identifier = "fa fa-headphones"
     weight = 1
 
 [[menu.main]]
