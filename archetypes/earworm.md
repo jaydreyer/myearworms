@@ -11,6 +11,7 @@ featuredalt = ""
 featuredpath = "/img/posts/"
 featured = ""
 type = "post"
+draft = "true"
 
 +++
 <!--more-->
