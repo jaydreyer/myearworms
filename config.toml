@@ -4,7 +4,7 @@ title = "My Earworms"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "shortname"
+disqusShortname = ""
 googleAnalytics = "UA-134485-4"
 
 [params]
