@@ -68,18 +68,18 @@ googleAnalytics = "UA-134485-4"
 # You can use identifier to prepend a font awesome icon to your text
 [[menu.main]]
     name = "Worms"
-    url = "/earworm"
+    url = "/earworm/"
     identifier = "fa fa-headphones"
     weight = 1
 
 [[menu.main]]
     name = "Categories"
-    url = "/categories"
+    url = "/categories/"
     weight = 2
 
 [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "/about/"
     weight = 3
 
 # Insert your username and the icon will apear on the page as long as
