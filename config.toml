@@ -1,4 +1,4 @@
-baseurl = "http://myearworms.com/"
+baseurl = "http://www.myearworms.com/"
 languageCode = "en-us"
 title = "My Earworms"
 theme = "hugo-future-imperfect"
