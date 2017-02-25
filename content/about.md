@@ -1,6 +1,6 @@
 +++
 featuredalt = ""
-featuredpath = "/img/main/"
+featuredpath = "/img/main"
 title = "about"
 featured = "about.jpg"
 linktitle = ""
