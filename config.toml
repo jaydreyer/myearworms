@@ -17,6 +17,7 @@ googleAnalytics = "UA-134485-4"
     socialAppearAtBottom = true
     # set this to the section name if section is not post
     viewMorePostLink     = "/earworm/"
+    amazonId = "myearworms-20"
 
 # Optional Params
     categoriesByCount    = true

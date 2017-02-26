@@ -4,7 +4,6 @@ author = "Jay Dreyer"
 linktitle = ""
 title = ""
 artist = ""
-youtube = ""
 released = ""
 description = ""
 featuredalt = ""
@@ -16,6 +15,8 @@ draft = "true"
 +++
 <!--more-->
 ### How did this happen?
+
+### Go ahead. Let's hear it.
 
 ### So about the song...
 
