@@ -1,5 +1,6 @@
 +++
 categories = []
+tags = []
 author = "Jay Dreyer"
 linktitle = ""
 title = ""
