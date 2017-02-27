@@ -9,6 +9,7 @@ artist = "Alan Thicke"
 type = "post"
 featuredpath = "/img/posts"
 categories = ["TV"]
+tags = ["Alan Thicke", "Gary Coleman"]
 featuredalt = ""
 description = ""
 title = "Diff'rent Strokes"
@@ -31,4 +32,4 @@ That's two versions to really bore into your skull. They are also missing the "M
 
 The fascinating thing about the song is it was written (music **and** lyrics) by none other than [Alan Thicke](https://en.wikipedia.org/wiki/Alan_Thicke). He also wrote the theme songs for a bunch of other shows including *The Facts of Life*, *The Joker's Wild* and the original *Wheel of Fortune* theme. All that and he played Jason Seaver on *Growing Pains*. RIP, Alan Thicke!
 
-Now for a word on Diff'rent Strokes. I watched an episode a couple months back and I was absolutely blown away by how great Gary Coleman was on that show. As a kid I didn't really appreciate it. He was funny, he was cute, he said the catch-line. All good. But re-watching him perform, it was amazing how good he was at such a young age. At his peak he was making $100,000 an episode. That was probably around 1984 or 1985. If you get a chance to watch an episode on MeTV, do it. As long as it's not one of the later ones with Sam. Oh man did I hate Sam. If you can't find MeTV, you can {{< amazon-link B0002JZT5U "buy the dvd" >}} at Amazon for $5 or something. 
+Now for a word on Diff'rent Strokes. I watched an episode a couple months back and I was absolutely blown away by how great Gary Coleman was on that show. As a kid I didn't really appreciate it. He was funny, he was cute, he said the catch-line. All good. But re-watching him perform, it was amazing how good he was at such a young age. At his peak he was making $100,000 an episode. That was probably around 1984 or 1985. If you get a chance to watch an episode on MeTV, do it. As long as it's not one of the later ones with Sam. Oh man did I hate Sam. If you can't find MeTV, you can {{< amazon-link B0002JZT5U "buy the dvd" >}} at Amazon for $5 or something.
