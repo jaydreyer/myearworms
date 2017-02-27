@@ -1,5 +1,6 @@
 +++
 categories = ["Rock"]
+tags = ["Robbie Robertson", "Bob Dylan", "The Band", "Eric Clapton"]
 author = "Jay Dreyer"
 linktitle = ""
 title = "Showdown At Big Sky"
