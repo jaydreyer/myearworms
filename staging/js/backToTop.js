@@ -1,0 +1,1 @@
+$(function(){var a=300,t=1200,o=700,e=$("#back-to-top");$shareNav=$("#share-nav"),$(window).scroll(function(){$(this).scrollTop()>a?(e.fadeIn(),$shareNav.fadeIn()):(e.fadeOut(),e.removeClass("btt-fade-out"),$shareNav.fadeOut()),$(this).scrollTop()>t&&e.addClass("btt-fade-out")}),e.on("click",function(a){a.preventDefault(),$("body,html").animate({scrollTop:0},o)})});
