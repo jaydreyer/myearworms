@@ -8,3 +8,4 @@ cp hugo_${HUGO_VERSION}_linux_amd64/hugo_${HUGO_VERSION}_linux_amd64 hugo
 # tar xvzf ${HUGULP_VERSION}.tar.gz
 # cp hugulp-${HUGULP_VERSION} hugo
 # npm install
+npm install -g hugulp
