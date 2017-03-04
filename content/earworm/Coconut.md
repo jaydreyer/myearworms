@@ -1,5 +1,5 @@
 +++
-draft = "true"
+draft = "false"
 author = "Jay Dreyer"
 categories = ["Rock", "70s"]
 tags = ["Harry Nilsson", "70s"]
