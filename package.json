@@ -1,0 +1,19 @@
+{
+  "name": "myearworms",
+  "version": "1.0.0",
+  "description": "Website of songs stuck in my head",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github-personal:jaydreyer/myearworms.git"
+  },
+  "author": "Jay Dreyer",
+  "license": "ISC"
+}
