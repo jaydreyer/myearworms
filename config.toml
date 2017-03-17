@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "My Earworms"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 8
 disqusShortname = "my-earworms"
 googleAnalytics = "UA-134485-4"
 
