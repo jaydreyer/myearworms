@@ -4,7 +4,7 @@ author = "Jay Dreyer"
 categories = ["Rock", "80s"]
 date = "2017-05-17T10:36:49-05:00"
 description = ""
-draft = "true"
+draft = "false"
 featured = "twilight_zone.jpg"
 featuredalt = ""
 featuredpath = "/img/posts"
@@ -18,7 +18,7 @@ type = "post"
 
 <!--more-->
 ### How did this happen?
-I had to take my car into the shop for a couple days to have a bunch of work performed that I really didn't want to have performed. They gave me a loaner car but it didn't have XM, so I had to try out this wacky thing called "radio". I found a classic rock station and they played this song. The rest is Earworm history.
+I had to take my car into the shop for a couple days to have a bunch of work performed that I really didn't want to have performed. They gave me a loaner car but it didn't have XM, so I had to try out this wacky thing called a "radio". I found a classic rock station and they played this song. The rest is Earworm history.
 
 ### Go ahead. Let's hear it.
 Warning. BOOBS!
